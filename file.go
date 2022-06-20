@@ -1,4 +1,6 @@
-package size
+package main
+
+
 
 func Size(a int) string {
 	switch {
